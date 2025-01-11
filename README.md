@@ -3,7 +3,9 @@
 Eine Python-Anwendung zur Analyse von Gesichtsausdrücken mithilfe der Hume AI API.
 
 <!-- Bild mit 500px Breite -->
-![GUI Screenshot](images/face_expression_gui.png){width=200px}
+![GUI Screenshot](images/face_expression_gui.png)
+
+<img src="dimages/face_expression_gui.png" alt="gui" width="200"/>
 
 ## 🌟 Features
 
