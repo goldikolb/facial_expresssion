@@ -1,0 +1,15 @@
+# Environment
+.env
+venv/
+__pycache__/
+*.pyc
+
+# Spezifische Dateien
+facial_analysis.py
+.cursorrules
+
+# IDE-spezifische Dateien
+.vscode/
+.idea/
+*.swp
+.DS_Store 
