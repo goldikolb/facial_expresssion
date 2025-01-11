@@ -19,7 +19,7 @@ Eine Python-Anwendung zur Analyse von Gesichtsausdrücken mithilfe der Hume AI A
 
 ```bash
 git clone https://github.com/goldikolb/facial_expresssion.git
-cd face-expression-analyzer
+cd facial_expresssion
 ```
 
 2.Virtuelle Umgebung erstellen und aktivieren:
