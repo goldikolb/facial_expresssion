@@ -15,26 +15,27 @@ Eine Python-Anwendung zur Analyse von Gesichtsausdrücken mithilfe der Hume AI A
 
 ## 🚀 Installation
 
-1. Repository klonen:
+1.Repository klonen:
 
-bash
+```bash
 git clone https://github.com/IhrUsername/face-expression-analyzer.git
 cd face-expression-analyzer
+```
 
-2. Virtuelle Umgebung erstellen und aktivieren:
+2.Virtuelle Umgebung erstellen und aktivieren:
 
 ```bash
 python -m venv venv
 source venv/bin/activate  # Unter Windows: venv\Scripts\activate
 ```
 
-3. Abhängigkeiten installieren:
+3.Abhängigkeiten installieren:
 
 ```bash
 pip install -r requirements.txt
 ```
 
-4. `.env` Datei erstellen:
+4.`.env` Datei erstellen:
 
 ```plaintext
 HUME_API_KEY=Ihr_API_Key
@@ -43,7 +44,7 @@ HUME_SECRET_KEY=Ihr_Secret_Key
 
 ## 💻 Verwendung
 
-1. Programm starten:
+1.Programm starten:
 
 ```bash
 python facial_analysis_gui.py
