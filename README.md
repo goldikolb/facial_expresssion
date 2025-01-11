@@ -94,10 +94,6 @@ Wenn Sie Fragen haben oder einen Beitrag leisten möchten, zögern Sie nicht, un
 
 ## Follow me on Social Media
 
-[![Threads](https://img.shields.io/badge/Threads-Follow%20me-blue?style=flat&logo=Thread&logoColor=white)](https://www.threads.net/@pflege_ki)
-
-[![Twitter Follow](https://img.shields.io/twitter/follow/ai_fuerth?style=social)](https://twitter.com/ai_fuerth)
-
 [![Instagram](https://img.shields.io/badge/Instagram-Follow%20@pflege__ki-blue?style=flat&logo=instagram&logoColor=white)](https://www.instagram.com/pflege_ki/)
 
 ## Support my work
